@@ -1,8 +1,8 @@
 # Daily R<sub>e</sub> for select countries
 
-See https://ibz-shiny.ethz.ch/covid-19-re/ for an interactive visualisation of the data.
+See https://ibz-shiny.ethz.ch/covid-19-re-international/ for an interactive visualisation of the data.
 
-See https://ibz-shiny.ethz.ch/covid-19-re/methods.pdf for an explanation of the method used.
+See https://www.medrxiv.org/content/10.1101/2020.11.26.20239368v1.article-info for an explanation of the method used.
 
 ## Data Format
 
